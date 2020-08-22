@@ -15,6 +15,7 @@
 		5473A22B24F0B7BF009C6E3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5473A22924F0B7BF009C6E3D /* LaunchScreen.storyboard */; };
 		5473A23624F0B7BF009C6E3D /* GalleryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5473A23524F0B7BF009C6E3D /* GalleryTests.swift */; };
 		5473A24124F0B7BF009C6E3D /* GalleryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5473A24024F0B7BF009C6E3D /* GalleryUITests.swift */; };
+		5473A24F24F0B916009C6E3D /* Story.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5473A24E24F0B916009C6E3D /* Story.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5473A23C24F0B7BF009C6E3D /* GalleryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GalleryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5473A24024F0B7BF009C6E3D /* GalleryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryUITests.swift; sourceTree = "<group>"; };
 		5473A24224F0B7BF009C6E3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5473A24E24F0B916009C6E3D /* Story.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Story.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				5473A21E24F0B7BE009C6E3D /* AppDelegate.swift */,
 				5473A22024F0B7BE009C6E3D /* SceneDelegate.swift */,
 				5473A22224F0B7BE009C6E3D /* ContentView.swift */,
+				5473A24E24F0B916009C6E3D /* Story.swift */,
 				5473A22424F0B7BF009C6E3D /* Assets.xcassets */,
 				5473A22924F0B7BF009C6E3D /* LaunchScreen.storyboard */,
 				5473A22C24F0B7BF009C6E3D /* Info.plist */,
@@ -270,6 +273,7 @@
 				5473A21F24F0B7BE009C6E3D /* AppDelegate.swift in Sources */,
 				5473A22124F0B7BE009C6E3D /* SceneDelegate.swift in Sources */,
 				5473A22324F0B7BE009C6E3D /* ContentView.swift in Sources */,
+				5473A24F24F0B916009C6E3D /* Story.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
